@@ -1,12 +1,1 @@
-Object Detection
-================
-21/02/2023 23:40:10
 
-Mode: Checker
-
-Uploaded image: D:\Documents\ObjectDetectionStuff\Images\Examples\face3.png
-Samples: D:\Documents\ObjectDetectionStuff\Images\Samples\Face
-
-Result: Valid
-
-Accuracy: 90.47% (10 iterations)

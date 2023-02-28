@@ -9,4 +9,4 @@ Currently, it's more of an 'object checker'; this program will determine whether
 
 It uses the Viola-Jones framework for the detection and AdaBoost for the training - or at least my own variations of these algorithms as no object detection libraries were used for this project.
 
-I have supplied some samples and test images. Feel free to use these images, they're all stock images, or use your own images (following the same format).
+I have supplied some samples and test images. Feel free to use these, they're all stock images, or use your own images (following the same format).

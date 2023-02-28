@@ -1,9 +1,7 @@
 <p align="center">
-  <img width="128" align="center" src="/images/logo.png">
+  <img width="80" align="center" src="/Images/logo.png">
 </p>
-
-
-# Object Detection
+<h1 align = "center">Object Detection</h1>
 
 I made this program for my A-Level Computer Science Major Project.
 

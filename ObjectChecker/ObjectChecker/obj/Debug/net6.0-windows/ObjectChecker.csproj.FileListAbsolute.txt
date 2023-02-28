@@ -51,3 +51,6 @@ D:\Documents\ObjectChecker\ObjectChecker\obj\Debug\net6.0-windows\ObjectChecker.
 D:\Documents\ObjectChecker\ObjectChecker\obj\Debug\net6.0-windows\ObjectChecker.genruntimeconfig.cache
 D:\Documents\ObjectChecker\ObjectChecker\obj\Debug\net6.0-windows\ref\ObjectChecker.dll
 D:\Documents\Coding\C#\College\ObjectChecker\ObjectChecker\obj\Debug\net6.0-windows\ObjectChecker.Properties.Resources.resources
+D:\Documents\Coding\C#\College\ObjectChecker\ObjectChecker\obj\Debug\net6.0-windows\ObjectChecker.DeveloperModeForm.resources
+D:\Documents\Coding\C#\College\ObjectChecker\ObjectChecker\obj\Debug\net6.0-windows\ObjectChecker.ObjectChecker.resources
+D:\Documents\Coding\C#\College\ObjectChecker\ObjectChecker\obj\Debug\net6.0-windows\ObjectChecker.StartScreen.resources

@@ -6,11 +6,16 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Images\Logo\icon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="DeveloperMode.cs~RFb3a9908.TMP" />
     <None Remove="ObjectChecker.cs~RF19aff669.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\Logo\icon.ico" />
   </ItemGroup>
 
   <ItemGroup>

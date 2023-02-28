@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="128" align="center" src="/images/logo.png">
+</p>
+
+
 # Object Detection
 
 I made this program for my A-Level Computer Science Major Project.

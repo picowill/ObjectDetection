@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80" align="center" src="/Images/logo.png">
+  <img width="80" align="center" src="/Images/Logo/logo.png">
 </p>
 <h1 align = "center">Object Detection</h1>
 
